@@ -47,10 +47,5 @@ Many thanks to following codes that help us a lot in building this codebase:
 
 If you find our work useful in your research, please consider citing:
 ```latex
-@inproceedings{pointdistiller23,
-  title={PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection},
-  author={Linfeng Zhang and Runpei Dong and Hung-Shuo Tai and Kaisheng Ma},
-  booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2023},
-}
+
 ```
