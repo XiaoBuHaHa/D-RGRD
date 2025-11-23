@@ -33,7 +33,7 @@ CUDA_VISIBLE_DEVICES=$DEVICE_ID python tools/train.py <student_cfg> --use-kd # f
 bash ./tools/dist_train.sh <student_cfg> 8 --use-kd # for multiple gpus
 ```
 ## License
-PointDistiller is released under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+D-RGRD is released under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ## Acknowledgements
 Many thanks to following codes that help us a lot in building this codebase:
