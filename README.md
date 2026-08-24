@@ -43,5 +43,12 @@ Many thanks to following codes that help us a lot in building this codebase:
 
 If you find our work useful in your research, please consider citing:
 ```latex
+@article{bu2026dynamic,
+  title={Dynamic Riemannian Geometry Relational Distillation for Lightweight 3D Object Detection},
+  author={Bu, Changhong and Yan, Weiqing and Liu, Zhaowei and Song, Yongchao and Tang, Chang},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2026},
+  publisher={IEEE}
+}
 
 ```
